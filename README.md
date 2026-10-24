@@ -89,11 +89,6 @@ We may update this Privacy Policy from time to time.
 
 Any changes will be posted on this page with an updated "Last Updated" date.
 
-## 10. Contact Us
-
-If you have any questions, concerns, or requests regarding this Privacy Policy or ARROWPATH, please contact us at:
-
-**Email:** [YOUR EMAIL ADDRESS]
 
 **Developer/App Name:** ARROWPATH
 
